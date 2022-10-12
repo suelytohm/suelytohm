@@ -10,7 +10,7 @@
 
 -->
 
-<div align="center">
+<div>
   <h1>Olá! Tudo bem? 👋</h1>
   <a href="https://github.com/suelytohm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suelytohm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
