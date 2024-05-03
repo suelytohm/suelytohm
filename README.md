@@ -12,7 +12,7 @@
 
 <div>
   <h1>Olá! Tudo bem? 👋</h1>
-  <p>Meu nome é Suelytohm, tenho mais de 5 anos de experiência em várias tecnologias e já trabalhei em diversos projetos. <br>Aqui você pode acompanhar um pouco da minha jornada.</p>
+  <p>Meu nome é Suelytohm, tenho mais de 6 anos de experiência em várias tecnologias e já trabalhei em diversos projetos. <br>Aqui você pode acompanhar um pouco da minha jornada.</p>
   <h3>Já fiz alguns projetos utilizando as tecnologias abaixo:</h3>
 
   
