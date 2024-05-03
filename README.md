@@ -12,7 +12,7 @@
 
 <div>
   <h1>Olá! Tudo bem? 👋</h1>
-  <p>Meu nome é Suelytohm e aqui você pode acompanhar um pouco da minha jornada como Dev.</p>
+  <p>Meu nome é Suelytohm, tenho mais de 5 anos de experiência em várias tecnologias e já trabalhei em diversos projetos. <br>Aqui você pode acompanhar um pouco da minha jornada.</p>
   <h3>Já fiz alguns projetos utilizando as tecnologias abaixo:</h3>
 
   
@@ -21,6 +21,7 @@
   <img align="center" alt="Suelytohm-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Suelytohm-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Suelytohm-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Suelytohm-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Suelytohm-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Suelytohm-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Suelytohm-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
