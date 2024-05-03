@@ -13,7 +13,7 @@
 <div>
   <h1>Olá! Tudo bem? 👋</h1>
   <p>Meu nome é Suelytohm e aqui você pode acompanhar um pouco da minha jornada como Dev.</p>
-  <h3>Atualmente estou estudando</h3>
+  <h3>Já fiz alguns projetos utilizando as tecnologias abaixo:</h3>
 
   
   <img align="center" alt="Suelytohm-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
