@@ -16,22 +16,22 @@
 <div>
   <h1>Olá! Tudo bem? 👋</h1>
   <p>Meu nome é Suelytohm. Eu sou um desenvolvedor Full Stack.<br/><br/>Aqui você pode acompanhar um pouco da minha jornada.<br/><h3>Eu tenho mais de 6 anos de experiência e eu já fiz alguns projetos utilizando as tecnologias abaixo:<h3></p>
-  
-<img align="center" alt="Suelytohm-Node" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img align="center" alt="Suelytohm-Js" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Suelytohm-Js" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="Suelytohm-Node" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-<img align="center" alt="Suelytohm-Node" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-<img align="center" alt="Suelytohm-Node" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-<img align="center" alt="Suelytohm-React" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Suelytohm-HTML" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-<img align="center" alt="Suelytohm-HTML" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
-<img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+
+  <img align="center" alt="Suelytohm-HTML" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Suelytohm-Js" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Suelytohm-Js" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Suelytohm-React" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Suelytohm-Node" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Suelytohm-Node" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Suelytohm-Node" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Suelytohm-Node" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Suelytohm-HTML" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+  <img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Suelytohm-CSS" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
 
 
   <br/><br/>
