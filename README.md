@@ -12,7 +12,7 @@
 
 <div>
   <h1>Olá! Tudo bem? 👋</h1>
-  <p>Meu nome é Suelytohm. Eu sou Desenvolvedor Front-End.<br/><br/>Eu estou em busca de aprimorar e de aplicar os meus conhecimentos em novos projetos.<br/><br/>O meu objetivo profissional é proporcionar uma experiência excepcional para os usuários.<br/><br/>
+  <p>Meu nome é Suelytohm. Eu sou Desenvolvedor FullStack.<br/><br/>Eu estou em busca de aprimorar e de aplicar os meus conhecimentos em novos projetos.<br/><br/>O meu objetivo profissional é proporcionar uma experiência excepcional para os usuários.<br/><br/>
     Aqui você pode acompanhar um pouco da minha jornada.<br/><h3>Eu tenho mais de 6 anos de experiência e eu já fiz alguns projetos utilizando as tecnologias abaixo:<h3></p>
 
   <img align="center" alt="Suelytohm-HTML" height="30" style="margin-top: 5px;" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
