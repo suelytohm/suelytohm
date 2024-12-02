@@ -37,6 +37,7 @@
   <br/><br/>
   <h3>Contato:</h3>
   <p>✉ E-mail: suelytohm.02@gmail.com</p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/suelytohm" target="_blank">https://www.linkedin.com/in/suelytohm</a></p>
 
   
   
